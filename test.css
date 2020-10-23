@@ -1,0 +1,105 @@
+
+body{
+	background-image: url('dark_wood.png');
+}
+/* This is
+a multi-line
+comment */
+
+#Header{
+	width: 500px; 
+	margin-left: auto; 
+	margin-right: auto; 
+	margin-bottom: 10px; 
+	border: solid 8px black;
+	text-align: center;
+	background-color: #8E41D5; 
+	cursor: crosshair;
+	
+}
+/* This is a single-line comment */
+
+h3{
+	color: #FFBC00;
+	font-size: 40px;
+	font-family: "Passion One";
+	margin-bottom: 0px;
+
+}
+
+
+p{
+	color: white;
+	font-family: "Arial"; 
+	font-weight: bold; 
+}
+
+p {
+	border: 2px solid black;
+	outline: #4CAF50 solid 10px;
+	margin: auto;  
+	padding: 50px;
+	text-align: center;
+	box-shadow: 10px 5px 5px red;
+}
+
+#Header h1{
+	font-size: 60px;
+	font-family: "Passion One";
+	color: #FFBC00;
+	font-weight: bold;
+	
+}
+
+#LeftNav{
+	float: left;
+	width: 400px;
+	border: solid 8px black;
+	text-align: center;
+	padding-bottom: 8px;
+	background-color: #8E41D5; 
+}
+
+#LeftNav ul{
+	color: white;
+}
+
+a{
+	color: white;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+ul{
+	list-style-type: none;
+	padding-left: 0px; 
+}
+
+#Content{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	text-align: center;
+	background-color: #8E41D5;
+	padding: 15px;
+	
+}
+
+#Footer{
+	text-align: center;
+	border: solid 8px black;
+	background-color: #8E41D5;
+
+}
+
+.titles{
+	
+}
+
+#bow{
+	color:#FFBC00;
+	font-weight: bold;
+	font-size: 20px;
+}
